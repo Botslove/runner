@@ -1,0 +1,120 @@
+Skip to content
+
+Open navbar menu
+Careers at Replit
+We're on a mission to empower the next billion software developers. Join us!
+See open positions
+~/applyToReplit$
+script.js
+index.html
+styles.css
+@alan2ring@graceh0pper@you?
+let REPLIT_INTERESTS = [“dev tools”, “creative tools”, “programming education”]
+
+function confirmApplication(name) {
+// TODO: implement send to replit
+}
+
+function applyToReplit({ name, portfolio, interests }) {
+ if(portfolio && interests.some((interest) =>   REPLIT_INTERESTS.includes(interest))) {
+ confirmApplication(name)}
+}
+
+
+// usage
+// applyToReplit({ name: 'you',
+// portfolio: 'yourportfolio.com',
+// interests: ['creative tools', 'engineering']
+// })
+
+Replit has raised over $220 million in funding, with our most recent round valuing us at $1.6 billion. We're using the new funds to enhance the core development experience, expand cloud services for developers, optimize for enterprise and core engineering organizations to improve developer productivity, and drive innovation in AI through AI for All, our generative AI for software development.Read more about what we shipped in 2023.
+See open positions
+
+Hack night
+Who we are
+We’ve reduced the time it takes to develop and deploy software by orders of magnitude, collaboratively and in the cloud. Replit has enabled millions of software developers globally to go from idea to product faster than ever before. Reinventing and constantly improving how people develop and deploy software is hard, and that’s why we need the best people to join us in advancing our mission.To read more about who we are, check out our operating principles, or read about reasons not to join Replit.
+
+Who we are
+Our work
+On any given day, we tackle some of the most challenging problems in computing (AI, sandboxing, distributed systems) and the most interesting problems in design and HCI. We love demos, brainstorming, and bringing research ideas to life that impact millions of people.Read more about what we build and how on our blog.
+
+Blog example
+General interview process
+1
+Recruiter interview
+Chat with our recruiter to tell us about your career journey and professional goals, and we will share more about the opportunity, Replit, our mission and our operating principles.
+2
+Hiring Manager interview
+You will meet with the Hiring Manager to do a deep dive about your experience and technical abilities. This interview is to assess skills based on expectations for this role.
+3
+Technical interview (depending on role)
+You will complete a live or take home exercise and meet with an individual from the team to review it together. These can be done in a variety of ways depending on the role:
+Project walkthrough
+Live or take home coding challenge
+Take home assignment
+4
+Virtual onsite
+You will meet with members from the team and stakeholders that you would directly partner with to assess technical, problem solving, and behavioral skills needed to be successful in the role.
+Offer
+What we offer
+Autonomous working environment
+Flexible work hours
+Competitive salary and equity
+Home office set-up stipend
+Health, dental, vision, and life insurance
+Short term and long term disability
+Commuter benefits
+Paid parental, medical, and caregiver leave
+Flexible PTO + holidays
+401(k) program
+Annual company/team offsites (4/year)
+Learning and development stipend
+See open positions
+
+Boat day
+Copyright © 2024 Replit, Inc. All rights reserved.
+twitter
+tiktok
+instagram
+facebook
+Replit
+Mobile app
+Blog
+Careers
+Pricing
+Legal
+Terms of Service
+Privacy
+Subprocessors
+DPA
+US Student DPA
+Student Privacy
+Report Abuse
+Features
+IDE
+Multiplayer
+Community
+Deployments
+Replit AI
+Bounties
+Handy links
+Languages
+Docs
+Support
+Forum
+Status
+Import from Glitch
+Import from Heroku
+Copilot alternative
+Brand Kit
+Replit India
+Partnerships
+Programming languages
+Python
+JavaScript
+TypeScript
+Node.js
+Nix
+HTML, CSS, JS
+C++
+Golang
